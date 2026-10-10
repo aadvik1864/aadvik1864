@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-header.svg" alt="Aadvik Raj — Full-stack development and information security" width="100%" />
+  <img src="./assets/profile-header.svg" alt="Aadvik Raj — Full-stack development" width="100%" />
 </p>
 
 <p align="center">
