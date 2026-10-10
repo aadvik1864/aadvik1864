@@ -7,9 +7,9 @@
 </defs>
 <rect x="1" y="1" width="1198" height="298" rx="18" fill="url(#bg)" stroke="#293940"/>
 <rect x="48" y="47" width="42" height="4" rx="2" fill="url(#accent)"/>
-<text x="107" y="56" fill="#83a8b2" font-family="Consolas, 'Courier New', monospace" font-size="16" letter-spacing="4">DEVELOP / SECURE / EXPLORE</text>
-<text x="48" y="157" fill="#f2f7f8" font-family="Consolas, 'Courier New', monospace" font-weight="700" font-size="76" letter-spacing="-3">Aadvik Raj<tspan fill="#56e6ca">.</tspan></text>
-<text x="51" y="210" fill="#b7c8cd" font-family="Consolas, 'Courier New', monospace" font-size="20">FULL-STACK DEVELOPMENT</text>
+<text x="107" y="56" fill="#83a8b2" font-family="Consolas, 'Courier New', monospace" font-size="14" letter-spacing="4">DEVELOP / SECURE / EXPLORE</text>
+<text x="48" y="157" fill="#f2f7f8" font-family="Consolas, 'Courier New', monospace" font-weight="700" font-size="68" letter-spacing="-3">Aadvik Raj<tspan fill="#56e6ca">.</tspan></text>
+<text x="51" y="210" fill="#b7c8cd" font-family="Consolas, 'Courier New', monospace" font-size="18">FULL-STACK DEVELOPMENT</text>
 <path d="M51 249H654" stroke="#2d4249"/>
 <g transform="translate(1038 149)" fill="none" stroke-linejoin="round">
 <rect x="-77" y="-77" width="154" height="154" rx="3" transform="rotate(45)" stroke="#29434c" stroke-width="2"/>
