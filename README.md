@@ -25,45 +25,49 @@
 <br />
 
 <details>
-<summary><code>01</code> &nbsp; <b>Toolkit</b> &nbsp; <sub>Languages · frameworks · deployment</sub></summary>
+<summary><picture><img src="./assets/section-toolkit.svg" alt="01 · Toolkit — Languages · frameworks · deployment" width="94%" align="middle" /></picture></summary>
 
 <br />
 
 | Area | Technologies |
 | --- | --- |
-| Languages | Python, TypeScript, JavaScript, SQL |
-| Backend | FastAPI, Flask, REST APIs, SQLAlchemy |
-| Frontend | React, Next.js, Tailwind CSS |
-| Data | PostgreSQL, MySQL, SQLite, Redis, Supabase, Prisma |
-| Deployment | Docker, Linux, Git, Vercel, Render, Cloudflare R2 |
+| `Languages` | Python, TypeScript, JavaScript, SQL |
+| `Backend` | FastAPI, Flask, REST APIs, SQLAlchemy |
+| `Frontend` | React, Next.js, Tailwind CSS |
+| `Data` | PostgreSQL, MySQL, SQLite, Redis, Supabase, Prisma |
+| `Deployment` | Docker, Linux, Git, Vercel, Render, Cloudflare R2 |
 
 </details>
 
-<hr />
+<br />
 
 <details>
-<summary><code>02</code> &nbsp; <b>Interests</b> &nbsp; <sub>What I like to explore</sub></summary>
+<summary><picture><img src="./assets/section-interests.svg" alt="02 · Interests — Security · cloud · AI" width="94%" align="middle" /></picture></summary>
 
 <br />
 
-- Web application security, CTFs, and vulnerability research.
-- Authentication, access control, and secure backend development.
-- Log monitoring and practical cloud deployment.
-- Useful applications built with AI integrations.
+| Focus | What draws me in |
+| --- | --- |
+| `Security` | Web application security, CTFs, and vulnerability research |
+| `Backend` | Authentication, access control, and secure development |
+| `Cloud` | Log monitoring and practical deployment |
+| `AI` | Useful applications with AI integrations |
 
 </details>
 
-<hr />
+<br />
 
 <details>
-<summary><code>03</code> &nbsp; <b>Beyond the code</b> &nbsp; <sub>Competitions · community · milestones</sub></summary>
+<summary><picture><img src="./assets/section-milestones.svg" alt="03 · Beyond the code — Competitions · community · milestones" width="94%" align="middle" /></picture></summary>
 
 <br />
 
-- **3rd place** — DecipherX, a team-based 24-hour CTF at St. Francis College.
-- **Agentrix 2026** — Built with Team Lua at Jain University.
-- **Odoo Hackathon** participant.
-- **Bug Bounty certification** — Indian Cyber Club, July 2025.
+| Milestone | The experience |
+| --- | --- |
+| 🥉 **3rd place** | DecipherX · Team-based 24-hour CTF at St. Francis College |
+| ⚡ **Agentrix 2026** | Built with Team Lua at Jain University |
+| 🛠️ **Odoo Hackathon** | Participant |
+| 🎓 **Bug Bounty** | Indian Cyber Club certification · July 2025 |
 
 </details>
 
