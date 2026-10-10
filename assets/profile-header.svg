@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">Aadvik Raj</title>
+<desc id="desc">Full-stack development, cloud technology, and information security</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b111a"/><stop offset="1" stop-color="#14252c"/></linearGradient>
+<linearGradient id="accent"><stop stop-color="#56e6ca"/><stop offset="1" stop-color="#72baff"/></linearGradient>
+</defs>
+<rect x="1" y="1" width="1198" height="298" rx="18" fill="url(#bg)" stroke="#293940"/>
+<rect x="48" y="47" width="42" height="4" rx="2" fill="url(#accent)"/>
+<text x="107" y="56" fill="#83a8b2" font-family="Consolas, 'Courier New', monospace" font-size="16" letter-spacing="4">DEVELOP / SECURE / EXPLORE</text>
+<text x="48" y="157" fill="#f2f7f8" font-family="Consolas, 'Courier New', monospace" font-weight="700" font-size="76" letter-spacing="-3">Aadvik Raj<tspan fill="#56e6ca">.</tspan></text>
+<text x="51" y="210" fill="#b7c8cd" font-family="Consolas, 'Courier New', monospace" font-size="20">FULL-STACK DEVELOPMENT + INFORMATION SECURITY</text>
+<path d="M51 249H654" stroke="#2d4249"/>
+<g transform="translate(1038 149)" fill="none" stroke-linejoin="round">
+<rect x="-77" y="-77" width="154" height="154" rx="3" transform="rotate(45)" stroke="#29434c" stroke-width="2"/>
+<rect x="-55" y="-55" width="110" height="110" rx="3" transform="rotate(45)" stroke="url(#accent)" stroke-width="2"/>
+<path d="M-35-22L-55 0L-35 22M35-22L55 0L35 22M12-30L-12 30" stroke="#70dbc9" stroke-width="5" stroke-linecap="round"/>
+</g>
+<circle cx="1123" cy="55" r="4" fill="#56e6ca"/>
+</svg>
