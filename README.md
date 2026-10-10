@@ -1,55 +1,50 @@
 # Hi, I'm Aadvik Raj
 
-### Full-stack development · Cloud technology · Information security
+**Full-stack developer · Security enthusiast · BCA student**
 
-I'm a BCA student at **Jain (Deemed-to-be University)**, specializing in **Cloud Technology & Information Security** (2024–2027). I build full-stack applications, security monitoring tools, and AI-integrated systems, with a focus on authentication, access control, and practical deployment.
+I build web applications and security tools with **Python, TypeScript, and React**. Studying **Cloud Technology & Information Security** at Jain (Deemed-to-be University), 2024–2027.
 
-[LinkedIn](https://www.linkedin.com/in/aadvik-raj-0521912a8/) · [Explore my repositories](https://github.com/aadvik1864?tab=repositories)
+[💻 Explore my code](https://github.com/aadvik1864?tab=repositories) &nbsp; · &nbsp; [🤝 Connect on LinkedIn](https://www.linkedin.com/in/aadvik-raj-0521912a8/) &nbsp; · &nbsp; [⭐ What I'm exploring](https://github.com/aadvik1864?tab=stars)
 
-## Featured projects
+---
 
-### [SentinelX — Security log monitoring](https://github.com/aadvik1864/sentinelx)
+### A little more about me
 
-Collects Linux authentication, web server, and application logs to surface suspicious activity through rule-based alerts.
+*Click a section to explore.*
 
-- Investigation timelines and linked evidence for reviewing alerts.
-- Role-based access and live updates over WebSockets.
-- Services packaged with Docker Compose.
-
-**Stack:** FastAPI · React · TypeScript · PostgreSQL · Redis · Docker
-
-### [PaperLoom — Academic publication platform](https://github.com/aadvik1864/paperloom)
-
-A platform for publishing and discovering research papers and blog posts, with search, PDF viewing, and author/admin dashboards.
-
-- JWT authentication, role-based access, and session revocation.
-- Content moderation and PDF/image storage through Cloudflare R2.
-
-**Stack:** React · Flask · SQLAlchemy · PostgreSQL · Cloudflare R2
-
-## Collaborative work
-
-| Project | My work |
-| --- | --- |
-| **AI Answer Sheet Evaluator** | Contributed to authentication, evaluation history, and batch-processing workflows for up to 60 answer sheets, with background workers and live progress tracking. |
-| **Cura** | Collaborated on a voice-first 3D avatar AI companion for Agentrix 2026, integrating speech recognition, streamed responses, text-to-speech, lip-sync, and crisis-safety handling. |
-| **DayFlow HRMS** | Collaborated on employee records, attendance, leave approvals, payroll, and reporting with Next.js, Prisma, and role-based authorization. |
-
-## Tools I work with
+<details>
+<summary><b>🛠️ My toolkit</b></summary>
 
 | Area | Technologies |
 | --- | --- |
-| **Languages** | Python, TypeScript, JavaScript, SQL |
-| **Backend** | FastAPI, Flask, REST APIs, SQLAlchemy, JWT authentication |
-| **Frontend** | React, Next.js, Tailwind CSS, HTML, CSS |
-| **Data** | PostgreSQL, MySQL, SQLite, Redis, Supabase, Prisma |
-| **Deployment** | Docker, Docker Compose, Linux, Git, Vercel, Render, Cloudflare R2 |
+| Languages | Python, TypeScript, JavaScript, SQL |
+| Backend | FastAPI, Flask, REST APIs, SQLAlchemy |
+| Frontend | React, Next.js, Tailwind CSS |
+| Data | PostgreSQL, MySQL, SQLite, Redis, Supabase, Prisma |
+| Deployment | Docker, Linux, Git, Vercel, Render, Cloudflare R2 |
 
-## Security & community
+</details>
 
-- **3rd place — DecipherX:** Team-based 24-hour CTF at St. Francis College.
-- **Agentrix 2026:** Built Cura with Team Lua at Jain University.
-- **Odoo Hackathon:** Participated with DayFlow HRMS.
-- **Indian Cyber Club:** Bug Bounty certification, July 2025.
+<details>
+<summary><b>🔐 What interests me</b></summary>
 
-My interests include **web application security, CTFs, vulnerability research, and security-focused development**.
+- Web application security, CTFs, and vulnerability research.
+- Authentication, role-based access, and secure backend development.
+- Log monitoring, investigation workflows, and practical cloud deployment.
+- AI integrations that turn ideas into useful applications.
+
+</details>
+
+<details>
+<summary><b>🏆 Beyond the code</b></summary>
+
+- **3rd place** at DecipherX, a team-based 24-hour CTF at St. Francis College.
+- **Agentrix 2026:** Built with Team Lua at Jain University.
+- **Odoo Hackathon** participant.
+- **Bug Bounty certification** from Indian Cyber Club, July 2025.
+
+</details>
+
+---
+
+**Explore the pinned repositories below for my work.**
